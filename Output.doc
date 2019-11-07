@@ -1,0 +1,272 @@
+WELCOME TO PLAY TOWERS OF HANOI
+
+How many discs to start Towers of Hanoi?
+You entered 7. Here are your moves: 
+
+Source: pole A, Final Dest: pole C, Aux: Pole B
+
+Moving disc 1 from A to C  
+
+Moving disk 2 from A to B 
+
+Moving disc 1 from C to B  
+
+Moving disk 3 from A to C 
+
+Moving disc 1 from B to A  
+
+Moving disk 2 from B to C 
+
+Moving disc 1 from A to C  
+
+Moving disk 4 from A to B 
+
+Moving disc 1 from C to B  
+
+Moving disk 2 from C to A 
+
+Moving disc 1 from B to A  
+
+Moving disk 3 from C to B 
+
+Moving disc 1 from A to C  
+
+Moving disk 2 from A to B 
+
+Moving disc 1 from C to B  
+
+Moving disk 5 from A to C 
+
+Moving disc 1 from B to A  
+
+Moving disk 2 from B to C 
+
+Moving disc 1 from A to C  
+
+Moving disk 3 from B to A 
+
+Moving disc 1 from C to B  
+
+Moving disk 2 from C to A 
+
+Moving disc 1 from B to A  
+
+Moving disk 4 from B to C 
+
+Moving disc 1 from A to C  
+
+Moving disk 2 from A to B 
+
+Moving disc 1 from C to B  
+
+Moving disk 3 from A to C 
+
+Moving disc 1 from B to A  
+
+Moving disk 2 from B to C 
+
+Moving disc 1 from A to C  
+
+Moving disk 6 from A to B 
+
+Moving disc 1 from C to B  
+
+Moving disk 2 from C to A 
+
+Moving disc 1 from B to A  
+
+Moving disk 3 from C to B 
+
+Moving disc 1 from A to C  
+
+Moving disk 2 from A to B 
+
+Moving disc 1 from C to B  
+
+Moving disk 4 from C to A 
+
+Moving disc 1 from B to A  
+
+Moving disk 2 from B to C 
+
+Moving disc 1 from A to C  
+
+Moving disk 3 from B to A 
+
+Moving disc 1 from C to B  
+
+Moving disk 2 from C to A 
+
+Moving disc 1 from B to A  
+
+Moving disk 5 from C to B 
+
+Moving disc 1 from A to C  
+
+Moving disk 2 from A to B 
+
+Moving disc 1 from C to B  
+
+Moving disk 3 from A to C 
+
+Moving disc 1 from B to A  
+
+Moving disk 2 from B to C 
+
+Moving disc 1 from A to C  
+
+Moving disk 4 from A to B 
+
+Moving disc 1 from C to B  
+
+Moving disk 2 from C to A 
+
+Moving disc 1 from B to A  
+
+Moving disk 3 from C to B 
+
+Moving disc 1 from A to C  
+
+Moving disk 2 from A to B 
+
+Moving disc 1 from C to B  
+
+Moving disk 7 from A to C ==> FINAL MOVE
+
+Moving disc 1 from B to A  
+
+Moving disk 2 from B to C 
+
+Moving disc 1 from A to C  
+
+Moving disk 3 from B to A 
+
+Moving disc 1 from C to B  
+
+Moving disk 2 from C to A 
+
+Moving disc 1 from B to A  
+
+Moving disk 4 from B to C 
+
+Moving disc 1 from A to C  
+
+Moving disk 2 from A to B 
+
+Moving disc 1 from C to B  
+
+Moving disk 3 from A to C 
+
+Moving disc 1 from B to A  
+
+Moving disk 2 from B to C 
+
+Moving disc 1 from A to C  
+
+Moving disk 5 from B to A 
+
+Moving disc 1 from C to B  
+
+Moving disk 2 from C to A 
+
+Moving disc 1 from B to A  
+
+Moving disk 3 from C to B 
+
+Moving disc 1 from A to C  
+
+Moving disk 2 from A to B 
+
+Moving disc 1 from C to B  
+
+Moving disk 4 from C to A 
+
+Moving disc 1 from B to A  
+
+Moving disk 2 from B to C 
+
+Moving disc 1 from A to C  
+
+Moving disk 3 from B to A 
+
+Moving disc 1 from C to B  
+
+Moving disk 2 from C to A 
+
+Moving disc 1 from B to A  
+
+Moving disk 6 from B to C ==> FINAL MOVE
+
+Moving disc 1 from A to C  
+
+Moving disk 2 from A to B 
+
+Moving disc 1 from C to B  
+
+Moving disk 3 from A to C 
+
+Moving disc 1 from B to A  
+
+Moving disk 2 from B to C 
+
+Moving disc 1 from A to C  
+
+Moving disk 4 from A to B 
+
+Moving disc 1 from C to B  
+
+Moving disk 2 from C to A 
+
+Moving disc 1 from B to A  
+
+Moving disk 3 from C to B 
+
+Moving disc 1 from A to C  
+
+Moving disk 2 from A to B 
+
+Moving disc 1 from C to B  
+
+Moving disk 5 from A to C ==> FINAL MOVE
+
+Moving disc 1 from B to A  
+
+Moving disk 2 from B to C 
+
+Moving disc 1 from A to C  
+
+Moving disk 3 from B to A 
+
+Moving disc 1 from C to B  
+
+Moving disk 2 from C to A 
+
+Moving disc 1 from B to A  
+
+Moving disk 4 from B to C ==> FINAL MOVE
+
+Moving disc 1 from A to C  
+
+Moving disk 2 from A to B 
+
+Moving disc 1 from C to B  
+
+Moving disk 3 from A to C ==> FINAL MOVE
+
+Moving disc 1 from B to A  
+
+Moving disk 2 from B to C ==> FINAL MOVE
+
+Moving disc 1 from A to C ==> FINAL MOVE
+
+All 7 discs are now at destination C
+
+
+Enter y to continue playing tower of Hanoi, any key to exit
+You entered 4.
+
+
+
+
+Thank you for playing Towers of Hanoi!
+
